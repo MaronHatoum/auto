@@ -1,4 +1,7 @@
 {
+    "includePaths": [
+    "docker-compose.yaml"
+  ],
   "hostRules": [
     {
       "matchHost": "ghcr.io",
