@@ -1,6 +1,7 @@
 {
-    "includePaths": [
-    "docker-compose.yaml"
+  "includePaths": [
+    "docker-compose.yaml",
+    "docker-compose.*.yaml"
   ],
   "hostRules": [
     {
